@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="id-ID" class="no-js">
 	<head>
@@ -136,7 +137,41 @@
 		</script>
 
 		<!-- Schema tag for JSON-LD structured data -->
-					
+					<script type="application/ld+json">
+			{
+			  "@context": "https://schema.org",
+			    "@type": "Organization",
+			    "name" : "Grab Indonesia",
+			    "url"  : "https://www.grab.com/id/",
+			    "logo" : "https://www.grab.com/id/wp-content/uploads/sites/4/2016/08/Grab_logo.png",
+			    "address" : {
+			      "@type": "PostalAddress",
+			      "addressCountry": "Indonesia",
+			      "addressLocality": "Jakarta",
+			      "addressRegion": "DKI",
+			      "postalCode": "10330",
+			      "streetAddress": "Jalan Cikini 2 No. 8, Menteng, Jakarta Pusat"
+			          },
+			      "contactPoint": [{
+			                  "@type": "ContactPoint",
+			                  "telephone": "+62-21-8064-8777",
+			                  "contactType": "customer service"
+			                }],
+			    "sameAs" : [
+			      "https://www.wikidata.org/wiki/Q20873932",
+			      "https://id.wikipedia.org/wiki/Grab_(aplikasi)",
+			      "https://www.facebook.com/GrabID/",
+			      "https://twitter.com/grabid",
+			      "https://www.instagram.com/grabid",
+			      "https://www.youtube.com/channel/UCGW3n9AJpF31TS9hqC7FXdw",
+			      "https://www.linkedin.com/company/grabapp",
+			      "https://play.google.com/store/apps/details?id=com.grabtaxi.passenger",
+			      "https://play.google.com/store/apps/details?id=com.ionicframework.grabshuttle856802",
+			      "https://itunes.apple.com/sg/app/grab-car-taxi-bike-booking-app/id647268330",
+			      "https://itunes.apple.com/sg/app/grabshuttle/id1205883254"
+			         ]
+			}
+			</script>
 
 		
 				
@@ -296,33 +331,168 @@ ul#input_40_1 li label{
 				<nav class="navbar navbar-default">
 
 					<div class="navbar-header">
-						<!-- ktmu -->
-						<a class="navbar-brand text-hide bg-size-cover" href="Sepatu-trainer-black.jpg">Indonesia</a>
 					</div>
-					<!-- end -->
-									<p class= "flag" style="text-align: center;"> JAHIT SOL SEPATU-SANDAL </p> 
+					<ul id="nav-main" class="nav navbar-nav hidden-xs">
+						<li class="dropdown dropdown-large list-countries">						
+													<a href="#" class="dropdown-toggle id" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="flag"></span></a>
+							<ul class="dropdown-menu dropdown-menu-large row list-countries" style="position: fixed; top: 60px;">
+															<li><a href="https://www.grab.com/sg" class="sg">
+									<span class="flag"></span>
+									Singapore</a>
+								</li>
+															<li><a href="https://www.grab.com/my" class="my">
+									<span class="flag"></span>
+									Malaysia</a>
+								</li>
+															<li><a href="https://www.grab.com/id" class="id">
+									<span class="flag"></span>
+									Indonesia</a>
+								</li>
+															<li><a href="https://www.grab.com/th" class="th">
+									<span class="flag"></span>
+									Thailand</a>
+								</li>
+															<li><a href="https://www.grab.com/vn" class="vn">
+									<span class="flag"></span>
+									Vietnam</a>
+								</li>
+															<li><a href="https://www.grab.com/ph" class="ph">
+									<span class="flag"></span>
+									Philippines</a>
+								</li>
+															<li><a href="https://www.grab.com/mm" class="mm">
+									<span class="flag"></span>
+									Myanmar</a>
+								</li>
+															<li><a href="https://www.grab.com/kh" class="kh">
+									<span class="flag"></span>
+									Cambodia</a>
+								</li>
+															<li><a href="https://www.grab.com/id/where-we-are/" class="globe">
+									<span class="flag"></span>
+									Full city list
+									</a>
 								</li>
 							</ul>
 						</li>
 																		
 						<li class="dropdown dropdown-large">
-							
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								Layanan							</a>
+														<ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;  text-align: center; ">
+																								<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/taxi/" class="icon-taxi">
+													Taksi													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/car/" class="icon-car">
+													Mobil													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/bike/" class="icon-bike">
+													Ojek													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/express/" class="icon-express">
+													Kurir													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/food/" class="icon-food">
+													GrabFood													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/rent/" class="icon-car">
+													Sewa													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/fresh/" class="icon-grabfresh">
+													Fresh													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/trip-planner/" class="icon-triplanner">
+													Rute													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/wheels/" class="icon-wheel">
+													Wheels													</a>
+												</li>
+																												<li class=" col-sm-1 " style=" display: inline-block;float:none;">
+														<a href="https://www.grab.com/id/bus/" class="icon-coach">
+													Bus													</a>
+												</li>
+																			</ul>
+						</li>
+																								<li class="dropdown dropdown-large">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								Korporat							</a>
+							<ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;">
+																								<li class="col-sm-2">
+														<a href="https://www.grab.com/id/business/" class="icon-work">Grab for Business</a>
+												</li>
+																												<li class="col-sm-2">
+														<a href="https://www.grab.com/id/partnerships/" class="icon-partnerships">Partnerships</a>
+												</li>
+																			</ul>
+						</li>
+																												<li>
+							<a href="/id/payment/" >Pembayaran</a>
+						</li>
+										<li>
+						<a href="/id/grabrewards/" class="grabrewards-brand"></a>
+					</li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right hidden-xs">
+												<li>
+							<a href='https://help.grab.com/passenger/id-id'>Pusat Bantuan</a>						</li>
+												<li>
+							<a href="https://hub.grab.com/" rel="nofollow"><i class="fa fa-user login" title="Login"></i></a>
+						</li>
+												<li id="menu-item-9999999999" class="menu-item menu-item-type-custom menu-item-object-custom menu_item_wpglobus_menu_switch wpglobus-selector-link wpglobus-current-language menu-item-9999999999 dropdown"><a title="&lt;span class=&quot;wpglobus_language_full_name&quot;&gt;Bahasa Indonesia&lt;/span&gt;" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true"><span class="wpglobus_language_full_name">Bahasa Indonesia</span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-wpglobus_menu_switch_en" class="menu-item menu-item-type-custom menu-item-object-custom sub_menu_item_wpglobus_menu_switch wpglobus-selector-link menu-item-wpglobus_menu_switch_en"><a title="&lt;span class=&quot;wpglobus_language_full_name&quot;&gt;English&lt;/span&gt;" href="https://www.grab.com/id/en/"><span class="wpglobus_language_full_name">English</span></a></li>
+</ul>
+</li>
 					</ul>
 
 															<ul id="nav-drive" class="nav navbar-nav navbar-right hidden-xs ">
 						<li class="dropdown">
-							<a href="https://bitly.li/rQ5Ro" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								PESAN DISINI							</a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								Bergabung dengan Grab							</a>
 							<ul class="dropdown-menu list-icons">
 														
 								<li class="abc" style="">
-									<a href="https://bitly.li/rQ5Ro" class="icon-drive-white" style="">
-									KLIK</a>
+									<a href="https://www.grab.com/id/driver/" class="icon-drive-white" style="">
+									Bergabung dengan Grab</a>
 								</li>
-													
+														
+								<li class="abc" style="">
+									<a href="https://www.grab.com/id/driver/taxi/" class="icon-taxi-drive-white" style="">
+									Taxi Driver</a>
+								</li>
+														
+								<li class="abc" style="">
+									<a href="https://www.grab.com/id/driver/car/" class="icon-car-drive-white" style="">
+									Car Driver</a>
+								</li>
+														
+								<li class="abc" style="">
+									<a href="https://www.grab.com/id/driver/bike/" class="icon-bike-drive-white" style="">
+									Bike &#038; Express Driver</a>
+								</li>
+														
+								<li class="abc" style="background-color:#0781d0;margin-left: -10px;margin-right: -10px;">
+									<a href="https://www.grab.com/id/kudo/" class="icon-kudo-drive-white" style="margin-left:10px;">
+									Daftar lewat agen resmi</a>
+								</li>
+														</ul>
+						</li>
 					</ul>
 					
 				</nav>
+				<a id="cd-menu-trigger" href="#0" class="visible-xs"><span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span></a>
+
+									<a id="btn-download" href="https://www.grab.com/id/driver" class="visible-xs btn btn-green weight-bold outline text-caps" >Driver Sign-Up</a>
+				
 			
 
 			</div><!-- /container -->
@@ -500,13 +670,13 @@ ul#input_40_1 li label{
 									    
 									    
 									    <div class="carousel-inner" role="listbox">
-										    									        <div class="bg-size-cover item active" style="background-image: url(Sepatu-trainer-black.jpg);">
+										    									        <div class="bg-size-cover item active" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2018/10/15123810/grab_safety_headerimage.png);">
 									            <div class="carousel-caption">
-									                <h1>Untuk Indonesia yang lebih percaya diri</h1>
+									                <h1>Janji kami untuk LEBIH AMAN SETIAP HARI</h1>
 													<p></p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro">PESAN DISINI</a>									            </div>
+													<a class="btn btn-lg btn-green text-caps weight-bold" href="/id/safety">Baca lebih lanjut</a>									            </div>
 									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(Sepatu-trainer-black.jpg);">
+									        									        <div class="bg-size-cover item" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2016/05/10113350/foodweb-hero-ID.jpg);">
 									            <div class="carousel-caption">
 									                <h1>Temukan restoran dan makanan favoritmu</h1>
 													<p></p>
