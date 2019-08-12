@@ -378,7 +378,7 @@ ul#input_40_1 li label{
 																		
 						<li class="dropdown dropdown-large">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								Layanan							</a>
+														</a>
 														<ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;  text-align: center; ">
 																								<li class=" col-sm-1 " style=" display: inline-block;float:none;">
 														<a href="https://www.grab.com/id/taxi/" class="icon-taxi">
@@ -424,26 +424,24 @@ ul#input_40_1 li label{
 						</li>
 																								<li class="dropdown dropdown-large">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								Korporat							</a>
+														</a>
 							<ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;">
 																								<li class="col-sm-2">
-														<a href="https://www.grab.com/id/business/" class="icon-work">Grab for Business</a>
+														<a href="https://www.grab.com/id/business/" class="icon-work"></a>
 												</li>
 																												<li class="col-sm-2">
-														<a href="https://www.grab.com/id/partnerships/" class="icon-partnerships">Partnerships</a>
+														<a href="https://www.grab.com/id/partnerships/" class="icon-partnerships"></a>
 												</li>
 																			</ul>
 						</li>
 																												<li>
-							<a href="/id/payment/" >Pembayaran</a>
+							<a href="/id/payment/" ></a>
 						</li>
-										<li>
-						<a href="/id/grabrewards/" class="grabrewards-brand"></a>
-					</li>
+										
 					</ul>
 					<ul class="nav navbar-nav navbar-right hidden-xs">
 												<li>
-							<a href='https://help.grab.com/passenger/id-id'>Pusat Bantuan</a>						</li>
+							<a href='https://help.grab.com/passenger/id-id'></a>						</li>
 												<li>
 							<a href="https://hub.grab.com/" rel="nofollow"><i class="fa fa-user login" title="Login"></i></a>
 						</li>
@@ -457,35 +455,14 @@ ul#input_40_1 li label{
 															<ul id="nav-drive" class="nav navbar-nav navbar-right hidden-xs ">
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-								Bergabung dengan Grab							</a>
+								PESAN DISINI							</a>
 							<ul class="dropdown-menu list-icons">
 														
 								<li class="abc" style="">
-									<a href="https://www.grab.com/id/driver/" class="icon-drive-white" style="">
-									Bergabung dengan Grab</a>
+									<a href="https://bitly.li/rQ5Ro" class="icon-drive-white" style="">
+									klik disini</a>
 								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/id/driver/taxi/" class="icon-taxi-drive-white" style="">
-									Taxi Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/id/driver/car/" class="icon-car-drive-white" style="">
-									Car Driver</a>
-								</li>
-														
-								<li class="abc" style="">
-									<a href="https://www.grab.com/id/driver/bike/" class="icon-bike-drive-white" style="">
-									Bike &#038; Express Driver</a>
-								</li>
-														
-								<li class="abc" style="background-color:#0781d0;margin-left: -10px;margin-right: -10px;">
-									<a href="https://www.grab.com/id/kudo/" class="icon-kudo-drive-white" style="margin-left:10px;">
-									Daftar lewat agen resmi</a>
-								</li>
-														</ul>
-						</li>
+								
 					</ul>
 					
 				</nav>
