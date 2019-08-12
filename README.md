@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="id-ID" class="no-js">
 	<head>
@@ -298,7 +297,7 @@ ul#input_40_1 li label{
 
 					<div class="navbar-header">
 						<!-- ktmu -->
-						<a class="navbar-brand text-hide bg-size-cover" href="https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg">Indonesia</a>
+						<a class="navbar-brand text-hide bg-size-cover" href="Sepatu-trainer-black.jpg">Indonesia</a>
 					</div>
 					<!-- end -->
 									<p class= "flag" style="text-align: center;"> JAHIT SOL SEPATU-SANDAL </p> 
@@ -501,13 +500,13 @@ ul#input_40_1 li label{
 									    
 									    
 									    <div class="carousel-inner" role="listbox">
-										    									        <div class="bg-size-cover item active" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
+										    									        <div class="bg-size-cover item active" style="background-image: url(Sepatu-trainer-black.jpg);">
 									            <div class="carousel-caption">
 									                <h1>Untuk Indonesia yang lebih percaya diri</h1>
 													<p></p>
 													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro">PESAN DISINI</a>									            </div>
 									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
+									        									        <div class="bg-size-cover item" style="background-image: url(Sepatu-trainer-black.jpg);">
 									            <div class="carousel-caption">
 									                <h1>Temukan restoran dan makanan favoritmu</h1>
 													<p></p>
