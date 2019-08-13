@@ -601,7 +601,7 @@ ul#input_40_1 li label{
                               <div class="carousel-caption">
                                   
                           <p></p>
-                          <a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro">KLIK DISINI</a>                             </div>
+                          <a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro" weight="100%">KLIK DISINI</a>                             </div>
                           </div>
                                                     <div class="bg-size-cover item">
                                                     <img src="set-various-male-female-shoes_74855-194.jpg">
