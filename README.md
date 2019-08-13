@@ -649,14 +649,10 @@ ul#input_40_1 li label{
 <div class="fluid-container text-center" style="background-color:#009d3b">
 <h2>hay, bagaimana harimu hari ini? </h2>
 <p>      <a href="https://www.grab.com/id/rideguide/" class="btn btnNext">INFO LANJUT</a>
-    </div>
-</div>
-</div>
+    
                     
                                       
-                  </div><!-- /container -->
-                </section>
-                
+               
               
               
                             
