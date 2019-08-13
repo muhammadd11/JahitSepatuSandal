@@ -596,13 +596,13 @@ ul#input_40_1 li label{
                       
                       
                       <div class="carousel-inner" role="listbox">
-                                                  <div class="bg-size-cover item active" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2018/10/15123810/grab_safety_headerimage.png);">
+                                                  <div class="bg-size-cover item active" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
                               <div class="carousel-caption">
                                   <h1>Janji kami untuk LEBIH AMAN SETIAP HARI</h1>
                           <p></p>
                           <a class="btn btn-lg btn-green text-caps weight-bold" href="/id/safety">Baca lebih lanjut</a>                             </div>
                           </div>
-                                                    <div class="bg-size-cover item" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2016/05/10113350/foodweb-hero-ID.jpg);">
+                                                    <div class="bg-size-cover item" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/set-various-male-female-shoes_74855-194.jpg);">
                               <div class="carousel-caption">
                                   <h1>Temukan restoran dan makanan favoritmu</h1>
                           <p></p>
