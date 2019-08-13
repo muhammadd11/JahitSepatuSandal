@@ -599,14 +599,14 @@ ul#input_40_1 li label{
                                                   <div class="bg-size-cover item active">
                                                   <img src="Sepatu-trainer-black.jpg">
                               <div class="carousel-caption">
-                                  <h1>Janji kami untuk LEBIH AMAN SETIAP HARI</h1>
+                                  <h1 style="color: black;">UNTUK PEMESANAN?</h1>
                           <p></p>
-                          <a class="btn btn-lg btn-green text-caps weight-bold" href="#">Baca lebih lanjut</a>                             </div>
+                          <a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro">KLIK DISINI</a>                             </div>
                           </div>
                                                     <div class="bg-size-cover item">
                                                     <img src="set-various-male-female-shoes_74855-194.jpg">
                               <div class="carousel-caption">
-                                  <h1>Temukan pengalaman baru</h1>
+                                  <h1 style="color: black;">Temukan pengalaman baru</h1>
                           <p></p>
                           <a class="btn btn-lg btn-green text-caps weight-bold" href="#">Mari Menjelajah!</a>                              </div>
                           </div>
