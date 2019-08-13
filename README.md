@@ -650,7 +650,8 @@ ul#input_40_1 li label{
 <div class="row">
 <div class="fluid-container text-center" style="background-color:#009d3b">
 <h2>hay, bagaimana harimu hari ini? </h2>
-<p>      <a href="#" class="btn btnNext">INFO LANJUT</a>
+<p> Sol jahit sepatu dan sandal merupakan usaha yang bertujuan untuk menjahit kembali sepatu atau sandal yang<br>
+  solnya terbuka. usaha ini didirikan di Desa Sumput RT 05 RW 02 - Sidoarjo. 
     
                     
                                       
@@ -685,7 +686,7 @@ ul#input_40_1 li label{
                                                   <img src=" Sepatu-trainer-black.jpg" width="100%">
                               <div class="carousel-caption">
                                 <h1>Tentang jahit sepatu dan sandal</h1>
-                          <p>Layanan yang memberikan servis terbaik.</p>
+                          <p>FREE PICK UP AND DROP OFF</p>
                           <a href="/id/taxi/"><span></span></a>
                         </div>
                                                 </div><!-- /carousel-inner -->
