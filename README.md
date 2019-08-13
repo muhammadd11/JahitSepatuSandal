@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<style>
 * {box-sizing:border-box}
 
 /* Slideshow container */
@@ -94,6 +95,7 @@
   from {opacity: .4} 
   to {opacity: 1}
 }
+</style
 				</head>
 				<body
 	<body class="home page-template page-template-tpl page-template-tpl-page-sections page-template-tpltpl-page-sections-php page page-id-285 site-id-9 elementor-default">
