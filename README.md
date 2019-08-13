@@ -293,18 +293,12 @@ ul#input_40_1 li label{
 <!-- new menu -->
 <!-- end of new menu -->
 
-				
-				<nav class="navbar navbar-default">
 
 					<div class="navbar-header">
 						<!-- ktmu -->
-						<a class="navbar-brand text-hide bg-size-cover" href="https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg">Indonesia</a>
 					</div>
 					<!-- end -->
 									<p class= "flag" style="text-align: center;"> JAHIT SOL SEPATU-SANDAL </p> 
-								</li>
-							</ul>
-						</li>
 																		
 						<li class="dropdown dropdown-large">
 							
@@ -326,232 +320,12 @@ ul#input_40_1 li label{
 				</nav>
 			
 
-			</div><!-- /container -->
-		</div>
-				<nav class="visible-xs mobile-menu" id="cd-lateral-nav">
-						<div class="inner">
-				<a href="https://hub.grab.com/" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
 			</div>
-							<ul class="cd-navigation list-unstyled" id="menu-main-navigation">
-										<li class="menu-item-has-children menu-item-drive">
-								<a href="#">Bergabung dengan Grab</a>
-								<ul id="sub-menu-drive" class="sub-menu list-unstyled list-icons">
-																							<li class="link-">
-								<a href="https://www.grab.com/id/driver/" class="icon-drive">Drive with Grab</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/id/driver/taxi/" class="icon-taxi-drive">Taxi Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/id/driver/car/" class="icon-car-drive">GrabCar Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/id/driver/bike/" class="icon-bike-drive">GrabBike &#038; GrabExpress Driver</a>
-							</li>
-																			<li class="link-">
-								<a href="https://www.grab.com/id/kudo/" class="icon-kudo-drive">Kudo</a>
-							</li>
-														</ul>
-						</li>
-																		<li class="menu-item-has-children">
-							<a href="#"> diaadan</a>
-								<ul class="sub-menu list-unstyled list-icons">
-																					<li>
-							<a href="https://www.grab.com/id/taxi/" class="icon-taxi">
-								Taksi							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/car/" class="icon-car">
-								Car							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/bike/" class="icon-bike">
-								Bike							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/express/" class="icon-express">
-								Express							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/food/" class="icon-food">
-								Food							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/rent/" class="icon-car">
-								Rent							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/fresh/" class="icon-grabfresh">
-								Fresh							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/trip-planner/" class="icon-triplanner">
-								Rute							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/wheels/" class="icon-wheel">
-								Wheels							</a>
-						</li>
-																						<li>
-							<a href="https://www.grab.com/id/bus/" class="icon-coach">
-								Bus							</a>
-						</li>
-																		</ul>
-						</li>
-																		<li class="menu-item-has-children">
-								<a href="#">Korporat</a>
-								<ul class="sub-menu list-unstyled list-icons">
-																						<li>
-												<a href="https://www.grab.com/id/business/" class="icon-work">Grab for Business</a>
-										</li>
-																						<li>
-												<a href="https://www.grab.com/id/partnerships/" class="icon-partnerships">Partnerships</a>
-										</li>
-																		</ul>
-						</li>
-												<li>
-								<a href="https://www.grab.com/id/about/">Tentang Kami</a>
-						</li>
-												<li>
-							<a href="/id/payment/" >Pembayaran</a>
-						</li>
-												<li>
-							<a href="/id/grabrewards/" class="grabrewards-brand mobile-nav"></a>
-						</li>
-												<li>
-						<li class="menu-item"><a href="https://www.grab.com/id/blog/">Blog</a></li>						</li>
-						<li>
-								<a href="https://www.grab.com/id/press/">Media</a>
-						</li>
-						<li>
-								<a href="https://grab.careers/" target="_blank">Karir</a>
-						</li>
-												<li>
-								<a href="https://www.grab.com/id/safety/">Keamanan</a>
-						</li>
-						<li><a href='https://help.grab.com/passenger/id-id'>Pusat Bantuan</a></li>
-						<li class="menu-item-has-children">
-								<a href="#">Indonesia</a>
-								<ul class="sub-menu list-unstyled list-countries">
-									
-							<li><a href="https://www.grab.com/sg" class="sg">Singapore</a></li>
-
-						
-							<li><a href="https://www.grab.com/my" class="my">Malaysia</a></li>
-
-						
-							<li><a href="https://www.grab.com/id" class="id">Indonesia</a></li>
-
-						
-							<li><a href="https://www.grab.com/th" class="th">Thailand</a></li>
-
-						
-							<li><a href="https://www.grab.com/vn" class="vn">Vietnam</a></li>
-
-						
-							<li><a href="https://www.grab.com/ph" class="ph">Philippines</a></li>
-
-						
-							<li><a href="https://www.grab.com/mm" class="mm">Myanmar</a></li>
-
-						
-							<li><a href="https://www.grab.com/kh" class="kh">Cambodia</a></li>
-
-														<li><a href="https://www.grab.com/id/where-we-are/" class="globe">Full city list</a>
-								</li>
-							</ul>
-						</li>
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu_item_wpglobus_menu_switch wpglobus-selector-link wpglobus-current-language menu-item-9999999999 menu-item-has-children"><a href="https://www.grab.com/id/"><span class="wpglobus_language_full_name">Bahasa Indonesia</span></a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom sub_menu_item_wpglobus_menu_switch wpglobus-selector-link menu-item-wpglobus_menu_switch_en"><a href="https://www.grab.com/id/en/"><span class="wpglobus_language_full_name">English</span></a></li>
-</ul>
-</li>
-				</ul>
-		</nav>
-		
-		<div class="wrapper">
-
-	
-	<main role="main">
-		
-		
-				
-						
-									
-											
-												
-														
-							
-														
-															<section 
-									id="section-carousel-homepage-carousel" 
-										class="section section-carousel section--dark">
-									
-																		<div class="carousel slide" data-ride="carousel" id="carousel-homepage-carousel">
-										
-										
-									    
-									    <ol class="carousel-indicators">
-										    									        	<li class="active" data-slide-to="0" data-target="#carousel-homepage-carousel"></li>
-									        									        	<li data-slide-to="1" data-target="#carousel-homepage-carousel"></li>
-									        									        	<li data-slide-to="2" data-target="#carousel-homepage-carousel"></li>
-									        									        	<li data-slide-to="3" data-target="#carousel-homepage-carousel"></li>
-									        									        	<li data-slide-to="4" data-target="#carousel-homepage-carousel"></li>
-									        									    </ol>
-									    
-									    
-									    <div class="carousel-inner" role="listbox">
-										    									        <div class="bg-size-cover item active" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
-									            <div class="carousel-caption">
-									                <h1>Untuk Indonesia yang lebih percaya diri</h1>
-													<p></p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro">PESAN DISINI</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
-									            <div class="carousel-caption">
-									                <h1>Temukan restoran dan makanan favoritmu</h1>
-													<p></p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://food.grab.com/id/id/">Mari Menjelajah!</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2017/11/hero-gti-wayang-1.jpg);">
-									            <div class="carousel-caption">
-									                <h1>Luangkan waktu untuknya yang selalu ada untukmu</h1>
-													<p>Dekat dengan Grab</p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://www.grab.com/id/download/">Download Aplikasi Grab</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2016/05/driver.jpg);">
-									            <div class="carousel-caption">
-									                <h1>FREEDOM untuk mengatur hidupmu</h1>
-													<p>Partner with us to drive your own livelihood and more.</p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="http://www.grab.com/driver/">Daftar Sekarang</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2017/11/hero-gti-rooftopsore-1.jpg);">
-									            <div class="carousel-caption">
-									                <h1>Sedekat ini dengannya setiap saat</h1>
-													<p>Dekat dengan Grab</p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://youtu.be/1yJdomYsUZg">Tonton Video</a>									            </div>
-									        </div>
-									        									    </div><!-- /carousel-inner -->
-									</div><!-- /carousel -->
-																						
-								</section>
-														
-														
-							
-					
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
-														
+			<!-- /container -->
+		</div>
+								
+								</body>
+</html>
 														
 							
 							
