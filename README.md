@@ -596,17 +596,19 @@ ul#input_40_1 li label{
                       
                       
                       <div class="carousel-inner" role="listbox">
-                                                  <div class="bg-size-cover item active" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
+                                                  <div class="bg-size-cover item active">
+                                                  <img src="Sepatu-trainer-black.jpg">
                               <div class="carousel-caption">
                                   <h1>Janji kami untuk LEBIH AMAN SETIAP HARI</h1>
                           <p></p>
-                          <a class="btn btn-lg btn-green text-caps weight-bold" href="/id/safety">Baca lebih lanjut</a>                             </div>
+                          <a class="btn btn-lg btn-green text-caps weight-bold" href="#">Baca lebih lanjut</a>                             </div>
                           </div>
-                                                    <div class="bg-size-cover item" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/set-various-male-female-shoes_74855-194.jpg);">
+                                                    <div class="bg-size-cover item">
+                                                    <img src="set-various-male-female-shoes_74855-194.jpg">
                               <div class="carousel-caption">
-                                  <h1>Temukan restoran dan makanan favoritmu</h1>
+                                  <h1>Temukan pengalaman baru</h1>
                           <p></p>
-                          <a class="btn btn-lg btn-green text-caps weight-bold" href="https://food.grab.com/id/id/">Mari Menjelajah!</a>                              </div>
+                          <a class="btn btn-lg btn-green text-caps weight-bold" href="#">Mari Menjelajah!</a>                              </div>
                           </div>
                                                     
                           </div>
