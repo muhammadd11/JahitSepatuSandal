@@ -650,7 +650,7 @@ ul#input_40_1 li label{
 <div class="row">
 <div class="fluid-container text-center" style="background-color:#009d3b">
 <h2>hay, bagaimana harimu hari ini? </h2>
-<p>      <a href="About" class="btn btnNext">INFO LANJUT</a>
+<p>      <a href="https://github.com/muhammadd11/JahitSepatuSandal/About" class="btn btnNext">INFO LANJUT</a>
     
                     
                                       
