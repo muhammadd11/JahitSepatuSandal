@@ -679,7 +679,8 @@ ul#input_40_1 li label{
                                                      
                                                 </ol>
                       <div class="carousel-inner" role="listbox">
-                                                  <div class="item item-1 bg-size-cover active" style="background-image: url(https://github.com/muhammadd11/JahitSepatuSandal/blob/master/Sepatu-trainer-black.jpg);">
+                                                  <div class="item item-1 bg-size-cover active">
+                                                  <img src=" Sepatu-trainer-black.jpg">
                               <div class="carousel-caption">
                                 <h1>Tentang jahit sepatu dan sandal</h1>
                           <p>Layanan yang memberikan servis terbaik.</p>
