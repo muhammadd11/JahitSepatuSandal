@@ -599,7 +599,7 @@ ul#input_40_1 li label{
                                                   <div class="bg-size-cover item active">
                                                   <img src="Sepatu-trainer-black.jpg">
                               <div class="carousel-caption">
-                                  <h1 style="color: black;">UNTUK PEMESANAN?</h1>
+                                  <h1 style="color: black; text-align: left;">UNTUK PEMESANAN?</h1>
                           <p></p>
                           <a class="btn btn-lg btn-green text-caps weight-bold" href="https://bitly.li/rQ5Ro">KLIK DISINI</a>                             </div>
                           </div>
@@ -650,7 +650,7 @@ ul#input_40_1 li label{
 <div class="row">
 <div class="fluid-container text-center" style="background-color:#009d3b">
 <h2>hay, bagaimana harimu hari ini? </h2>
-<p>      <a href="https://github.com/muhammadd11/JahitSepatuSandal/About" class="btn btnNext">INFO LANJUT</a>
+<p>      <a href="https://github.com/muhammadd11/JahitSepatuSandal/blob/master/About" class="btn btnNext">INFO LANJUT</a>
     
                     
                                       
