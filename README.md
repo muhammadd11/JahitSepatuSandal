@@ -300,9 +300,7 @@ ul#input_40_1 li label{
 					<!-- end -->
 									<p class= "flag" style="text-align: center;"> JAHIT SOL SEPATU-SANDAL </p> 
 																		
-						<li class="dropdown dropdown-large">
-							
-					</ul>
+					
 
 															<ul id="nav-drive" class="nav navbar-nav navbar-right hidden-xs ">
 						<li class="dropdown">
@@ -317,17 +315,7 @@ ul#input_40_1 li label{
 													
 					</ul>
 					
-				</nav>
-			
-
-			</div>
-			<!-- /container -->
-		</div>
-								
-								</body>
-</html>
-														
-							
+				
 							
 														
 														
