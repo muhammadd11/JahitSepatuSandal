@@ -691,7 +691,7 @@ ul#input_40_1 li label{
                                                 </div><!-- /carousel-inner -->
                   </div><!-- /carousel -->
                       
-                </section>
+               
                             
                             
                             
