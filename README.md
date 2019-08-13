@@ -682,15 +682,12 @@ ul#input_40_1 li label{
                                                 </ol>
                       <div class="carousel-inner" role="listbox">
                                                   <div class="item item-1 bg-size-cover active">
-                                                  <img src=" Sepatu-trainer-black.jpg">
+                                                  <img src=" Sepatu-trainer-black.jpg" width="100%">
                               <div class="carousel-caption">
                                 <h1>Tentang jahit sepatu dan sandal</h1>
                           <p>Layanan yang memberikan servis terbaik.</p>
                           <a href="/id/taxi/"><span></span></a>
-                              </div>
-                          </div>
-                                                    
-                          </div>
+                        </div>
                                                 </div><!-- /carousel-inner -->
                   </div><!-- /carousel -->
                       
@@ -1108,5 +1105,4 @@ var WPGlobus = {"version":"1.9.16","language":"id","enabledLanguages":["id","en"
 <script type='text/javascript' src='https://www.grab.com/id/wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=1.9.16'></script>
 <script type='text/javascript' src='https://www.grab.com/id/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
 
-</body>
-</html>
+
