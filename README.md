@@ -409,14 +409,13 @@ ul#input_40_1 li label{
             </li>
           </ul>
           
-        </nav>
+       
         <a id="cd-menu-trigger" href="#0" class="visible-xs"><span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span></a>
 
         
       
 
-      </div><!-- /container -->
-    </div>
+      
         <nav class="visible-xs mobile-menu" id="cd-lateral-nav">
             <div class="inner">
         <a href="#" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
