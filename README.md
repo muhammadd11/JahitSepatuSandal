@@ -438,8 +438,8 @@ ul#input_40_1 li label{
             </li>
                                     <li class="menu-item-has-children">
               <a href="#"> diaadan</a>
-                <ul class="sub-menu list-unstyled list-icons"
-                                            <li>
+                <ul class="sub-menu list-unstyled list-icons">
+                                            </li>
               <a href="#" class="icon-bike">
                 Bike              </a>
             </li>
@@ -453,7 +453,7 @@ ul#input_40_1 li label{
                 Rute              </a>
             </li>
                                             <li>
-              <a href=#" class="icon-wheel">
+              <a href="#" class="icon-wheel">
                 Wheels              </a>
             </li>
                                             
@@ -474,7 +474,7 @@ ul#input_40_1 li label{
                 <a href="#">Tentang Kami</a>
             </li>
                         <li>
-              <a href="#>Pembayaran</a>
+              <a href="#">Pembayaran</a>
             </li>
                         
                         <li>
@@ -1063,4 +1063,23 @@ var WPGlobus = {"version":"1.9.16","language":"id","enabledLanguages":["id","en"
 <script type='text/javascript' src='https://www.grab.com/id/wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=1.9.16'></script>
 <script type='text/javascript' src='https://www.grab.com/id/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
 
-
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+</div>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</body>
+</html>
