@@ -340,7 +340,7 @@ ul#input_40_1 li label{
 									</a>
 								</li>
 							</ul>
-						</li>
+						
 																		
 						<li class="dropdown dropdown-large">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
@@ -386,11 +386,7 @@ ul#input_40_1 li label{
 														<a href="#" class="icon-coach">
 													Bus													</a>
 												</li>
-																			</ul>
-						</li>
-																								
-																			</ul>
-						</li>
+																			
 																												
 									
 					
@@ -426,7 +422,7 @@ ul#input_40_1 li label{
 		</div>
 				<nav class="visible-xs mobile-menu" id="cd-lateral-nav">
 						<div class="inner">
-				<a href="https://hub.grab.com/" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
+				<a href="#" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
 			</div>
 							<ul class="cd-navigation list-unstyled" id="menu-main-navigation">
 										<li class="menu-item-has-children menu-item-drive">
@@ -462,43 +458,28 @@ ul#input_40_1 li label{
 						</li>
 																		
 						<li>
-								<a href="https://www.grab.com/id/press/">Media</a>
+								<a href="#">Media</a>
 						</li>
 						<li>
 								<a href="https://grab.careers/" target="_blank">Karir</a>
 						</li>
-												<li>
-								<a href="https://www.grab.com/id/safety/">Keamanan</a>
-						</li>
-						<li><a href='https://help.grab.com/passenger/id-id'>Pusat Bantuan</a></li>
+											
 						<li class="menu-item-has-children">
 								<a href="#">Indonesia</a>
 								<ul class="sub-menu list-unstyled list-countries">
 									
-							<li><a href="https://www.grab.com/sg" class="sg">Singapore</a></li>
+							<li><a href="#" class="sg">Singapore</a></li>
 
 						
-							<li><a href="https://www.grab.com/my" class="my">Malaysia</a></li>
+							<li><a href="#" class="my">Malaysia</a></li>
 
 						
-							<li><a href="https://www.grab.com/id" class="id">Indonesia</a></li>
+							<li><a href="#" class="id">Indonesia</a></li>
 
 						
-							<li><a href="https://www.grab.com/th" class="th">Thailand</a></li>
+							<li><a href="#" class="th">Thailand</a></li>
 
-						
-							<li><a href="https://www.grab.com/vn" class="vn">Vietnam</a></li>
-
-						
-							<li><a href="https://www.grab.com/ph" class="ph">Philippines</a></li>
-
-						
-							<li><a href="https://www.grab.com/mm" class="mm">Myanmar</a></li>
-
-						
-							<li><a href="https://www.grab.com/kh" class="kh">Cambodia</a></li>
-
-														<li><a href="https://www.grab.com/id/where-we-are/" class="globe">Full city list</a>
+														<li><a href="#" class="globe">Full city list</a>
 								</li>
 							</ul>
 						</li>
