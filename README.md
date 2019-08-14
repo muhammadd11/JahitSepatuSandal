@@ -295,9 +295,7 @@ ul#input_40_1 li label{
 				
 				<nav class="navbar navbar-default">
 
-					<div class="navbar-header">
-						<a class="navbar-brand text-hide bg-size-cover" href="https://www.grab.com/id/">Grab Indonesia</a>
-					</div>
+					
 					<ul id="nav-main" class="nav navbar-nav hidden-xs">
 						<li class="dropdown dropdown-large list-countries">						
 													<a href="#" class="dropdown-toggle id" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="flag"></span></a>
@@ -426,10 +424,10 @@ ul#input_40_1 li label{
 			</div>
 							<ul class="cd-navigation list-unstyled" id="menu-main-navigation">
 										<li class="menu-item-has-children menu-item-drive">
-								<a href="#">Bergabung dengan Grab</a>
+								<a href="#">Jahit sepatu dan sandal</a>
 								<ul id="sub-menu-drive" class="sub-menu list-unstyled list-icons">
 																							<li class="link-">
-								<a href="#" class="icon-drive">Drive with Grab</a>
+								<a href="#" class="icon-drive">Sepatu</a>
 							</li>
 																			
 														</ul>
@@ -525,34 +523,16 @@ ul#input_40_1 li label{
 									    <div class="carousel-inner" role="listbox">
 										    									        <div class="bg-size-cover item active" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2018/10/15123810/grab_safety_headerimage.png);">
 									            <div class="carousel-caption">
-									                <h1>Janji kami untuk LEBIH AMAN SETIAP HARI</h1>
+									                <h1>Tentang jahit sepatu dan sandal</h1>
 													<p></p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="/id/safety">Baca lebih lanjut</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2016/05/10113350/foodweb-hero-ID.jpg);">
+													<a class="btn btn-lg btn-green text-caps weight-bold" href="/id/safety">FREE PICK UP AND DELIVERY</a>									            </div>
+												</div>
+													<div class="bg-size-cover item" style="background-image: url(https://assets.grab.com/wp-content/uploads/sites/9/2016/05/10113350/foodweb-hero-ID.jpg);">
 									            <div class="carousel-caption">
 									                <h1>Temukan restoran dan makanan favoritmu</h1>
 													<p></p>
 													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://food.grab.com/id/id/">Mari Menjelajah!</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2017/11/hero-gti-wayang-1.jpg);">
-									            <div class="carousel-caption">
-									                <h1>Luangkan waktu untuknya yang selalu ada untukmu</h1>
-													<p>Dekat dengan Grab</p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://www.grab.com/id/download/" weigh>Download Aplikasi Grab</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2016/05/driver.jpg);">
-									            <div class="carousel-caption">
-									                <h1>FREEDOM untuk mengatur hidupmu</h1>
-													<p>Partner with us to drive your own livelihood and more.</p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="http://www.grab.com/driver/">Daftar Sekarang</a>									            </div>
-									        </div>
-									        									        <div class="bg-size-cover item" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2017/11/hero-gti-rooftopsore-1.jpg);">
-									            <div class="carousel-caption">
-									                <h1>Sedekat ini dengannya setiap saat</h1>
-													<p>Dekat dengan Grab</p>
-													<a class="btn btn-lg btn-green text-caps weight-bold" href="https://youtu.be/1yJdomYsUZg">Tonton Video</a>									            </div>
-									        </div>
+									         </div>
 									        									    </div><!-- /carousel-inner -->
 									</div><!-- /carousel -->
 																						
@@ -577,8 +557,8 @@ ul#input_40_1 li label{
 <div class="step1">
 <div class="row">
 <div class="fluid-container text-center" style="background-color:#009d3b">
-<h2>Yang kamu harus tahu sebelum melakukan perjalanan pertamamu dengan Grab</h2>
-<p>      <a href="https://www.grab.com/id/rideguide/" class="btn btnNext">INFO LANJUT</a>
+<h2>HAI, BAGAIMANA HARIMU HARI INI ?</h2>
+<p>      <a href="#" class="btn btnNext"> BAIK</a>
     </div>
 </div>
 </div>
@@ -596,41 +576,27 @@ ul#input_40_1 li label{
 									id="section-carousel-tooltip-homepage-services" 
 										class="section section-carousel-tooltip section--dark">
 									
-									<header><h2>Dekat dengan Grab</h2><p>Berbagai layanan lengkap untuk kebutuhan transportasi Anda.</p></header>									
+									<header><h2>DEKAT DENGAN KAMI</h2><p>SEBUAH USAHA UNTUK MEMBENARKAN KEMBALI SOL SEPATU ANDA</p></header>									
 									<div class="carousel carousel-tooltip carousel-fade slide" data-ride="carousel" id="carousel-homepage-services">
 										<ol class="carousel-indicators">
-										    									        	<li class="active" data-slide-to="0" data-target="#carousel-homepage-services"><i class="icon icon--hover icon--service--taxi"></i></li>
-									        									        	<li data-slide-to="1" data-target="#carousel-homepage-services"><i class="icon icon--hover icon--service--car"></i></li>
+										    						
 									        									        	<li data-slide-to="2" data-target="#carousel-homepage-services"><i class="icon icon--hover icon--service--bike"></i></li>
 									        									        	<li data-slide-to="3" data-target="#carousel-homepage-services"><i class="icon icon--hover icon--service--express"></i></li>
 									        									    </ol>
 									    <div class="carousel-inner" role="listbox">
 										    									        <div class="item item-1 bg-size-cover active" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2016/05/taxi-1.jpg);">
 									            <div class="carousel-caption">
-										            <h1>Tentang GrabTaxi</h1>
-													<p>Layanan yang memberikan akses serta kemudahan penumpang menemukan pengemudi taksi terdekat dengan aman.</p>
+										            <h1>JAHIT SEPATU DAN SANDA;</h1>
+													<p>GRATIS BIAYA ONGKIR DAN PENGANTARAN</p>
 													<a href="/id/taxi/"><span></span></a>
 									            </div>
 									        </div>
-									        									        <div class="item item-2 bg-size-cover" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2016/05/car-1.jpg);">
-									            <div class="carousel-caption">
-										            <h1>Tentang GrabCar</h1>
-													<p>Penyewaan kendaraan pribadi dengan supir yang menghadirkan kebebasan pilihan berkendara yang nyaman dan gaya.</p>
-													<a href="/id/car/"><span></span></a>
-									            </div>
-									        </div>
-									        									        <div class="item item-3 bg-size-cover" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2016/05/bike-1.jpg);">
-									            <div class="carousel-caption">
-										            <h1>Tentang GrabBike</h1>
-													<p>Lintasi kemacetan dengan aman dan pasti bersama GrabBike.</p>
-													<a href="/id/bike/"><span></span></a>
-									            </div>
-									        </div>
+									        									        
 									        									        <div class="item item-4 bg-size-cover" style="background-image: url(https://www.grab.com/id/wp-content/uploads/sites/9/2016/05/express-1.jpg);">
 									            <div class="carousel-caption">
-										            <h1>Tentang GrabExpress</h1>
-													<p>GrabExpress adalah layanan kurir ekspres berbasis aplikasi yang menjanjikan Kecepatan, Kepastian, dan yang paling utama adalah Keamanan.</p>
-													<a href="/id/express/"><span></span></a>
+										            <h1>PENGAMBILAN DAN PENGANTARAN YANG SUPER CEPAT</h1>
+													<p>Express adalah layanan kurir ekspres berbasis aplikasi yang menjanjikan Kecepatan, Kepastian, dan yang paling utama adalah Keamanan.</p>
+													<a href="#"><span></span></a>
 									            </div>
 									        </div>
 									        									    </div><!-- /carousel-inner -->
@@ -659,7 +625,7 @@ ul#input_40_1 li label{
 	        		</ul>
 				</div><!-- /col-xs-12 col-md-4 -->
 				<div class="col-xs-12 col-md-4">
-					<p class="copyright">&copy; Grab 2019</p>
+					<p class="copyright">&copy;  2019</p>
 				</div>
 				<div class="col-xs-12 col-md-4 hidden-xs">
 					
