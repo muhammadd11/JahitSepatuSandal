@@ -325,7 +325,7 @@ ul#input_40_1 li label{
       <div class="container">
 
 <!-- new menu -->
-<!-- end of new menu -->
+
 
         
         <nav class="navbar navbar-default">
@@ -609,7 +609,7 @@ ul#input_40_1 li label{
 <div class="fluid-container text-center" style="background-color:#009d3b">
 <h2>hay, bagaimana harimu hari ini? </h2>
 <p> Sol jahit sepatu dan sandal merupakan usaha yang bertujuan untuk menjahit kembali sepatu atau sandal yang<br>
-  solnya terbuka. usaha ini didirikan di Desa Sumput RT 05 RW 02 - Sidoarjo. 
+  solnya terbuka. usaha ini didirikan di Desa Sumput RT 05 RW 02 - Sidoarjo. </p.
     
                     
                                       
