@@ -335,35 +335,35 @@ ul#input_40_1 li label{
             <li class="dropdown dropdown-large list-countries">           
                           <a href="#" class="dropdown-toggle id" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="flag"></span></a>
               <ul class="dropdown-menu dropdown-menu-large row list-countries" style="position: fixed; top: 60px;">
-                              <li><a href="https://www.grab.com/sg" class="sg">
+                              <li><a href="#" class="sg">
                   <span class="flag"></span>
                   Singapore</a>
                 </li>
-                              <li><a href="https://www.grab.com/my" class="my">
+                              <li><a href="#" class="my">
                   <span class="flag"></span>
                   Malaysia</a>
                 </li>
-                              <li><a href="https://www.grab.com/id" class="id">
+                              <li><a href="#" class="id">
                   <span class="flag"></span>
                   Indonesia</a>
                 </li>
-                              <li><a href="https://www.grab.com/th" class="th">
+                              <li><a href="#" class="th">
                   <span class="flag"></span>
                   Thailand</a>
                 </li>
-                              <li><a href="https://www.grab.com/vn" class="vn">
+                              <li><a href="#" class="vn">
                   <span class="flag"></span>
                   Vietnam</a>
                 </li>
-                              <li><a href="https://www.grab.com/ph" class="ph">
+                              <li><a href="#" class="ph">
                   <span class="flag"></span>
                   Philippines</a>
                 </li>
-                              <li><a href="https://www.grab.com/mm" class="mm">
+                              <li><a href="#" class="mm">
                   <span class="flag"></span>
                   Myanmar</a>
                 </li>
-                              <li><a href="https://www.grab.com/kh" class="kh">
+                              <li><a href="#" class="kh">
                   <span class="flag"></span>
                   Cambodia</a>
                 </li>
