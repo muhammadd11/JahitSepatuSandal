@@ -367,7 +367,7 @@ ul#input_40_1 li label{
                   <span class="flag"></span>
                   Cambodia</a>
                 </li>
-                              <li><a href="https://www.grab.com/id/where-we-are/" class="globe">
+                              <li><a href="#" class="globe">
                   <span class="flag"></span>
                   Full city list
                   </a>
@@ -393,32 +393,25 @@ ul#input_40_1 li label{
                 </li>
                             
                 <li class="abc" style="">
-                  <a href="https://www.grab.com/id/driver/taxi/" class="icon-taxi-drive-white" style="">
-                  Taxi Driver</a>
+                  <a href="#" class="icon-taxi-drive-white" style="">
+                  </a>
                 </li>
+                            
+            
                             
                 <li class="abc" style="">
-                  <a href="https://www.grab.com/id/driver/car/" class="icon-car-drive-white" style="">
-                  Car Driver</a>
+                  <a href="#" class="icon-bike-drive-white" style="">
+                  Express pick up and drop off</a>
                 </li>
                             
-                <li class="abc" style="">
-                  <a href="https://www.grab.com/id/driver/bike/" class="icon-bike-drive-white" style="">
-                  Bike &#038; Express Driver</a>
-                </li>
+                
                             
-                <li class="abc" style="background-color:#0781d0;margin-left: -10px;margin-right: -10px;">
-                  <a href="https://www.grab.com/id/kudo/" class="icon-kudo-drive-white" style="margin-left:10px;">
-                  Daftar lewat agen resmi</a>
-                </li>
-                            </ul>
             </li>
           </ul>
           
         </nav>
         <a id="cd-menu-trigger" href="#0" class="visible-xs"><span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span></a>
 
-                  <a id="btn-download" href="https://www.grab.com/id/driver" class="visible-xs btn btn-green weight-bold outline text-caps" >Driver Sign-Up</a>
         
       
 
@@ -426,134 +419,99 @@ ul#input_40_1 li label{
     </div>
         <nav class="visible-xs mobile-menu" id="cd-lateral-nav">
             <div class="inner">
-        <a href="https://hub.grab.com/" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
+        <a href="#" target="_blank" class="btn btn-green btn-block weight-bold outline" rel="nofollow">Login</a>
       </div>
               <ul class="cd-navigation list-unstyled" id="menu-main-navigation">
                     <li class="menu-item-has-children menu-item-drive">
-                <a href="#">Bergabung dengan Grab</a>
+                <a href="#"> jahit sol sepatu dan sandal </a>
                 <ul id="sub-menu-drive" class="sub-menu list-unstyled list-icons">
                                               <li class="link-">
-                <a href="https://www.grab.com/id/driver/" class="icon-drive">Drive with Grab</a>
+                <a href="#" class="icon-drive">free pick up and drop off</a>
+              </li>
+              
+                                      <li class="link-">
+                <a href="#" class="icon-bike-drive">Express pick up & drop off</a>
               </li>
                                       <li class="link-">
-                <a href="https://www.grab.com/id/driver/taxi/" class="icon-taxi-drive">Taxi Driver</a>
-              </li>
-                                      <li class="link-">
-                <a href="https://www.grab.com/id/driver/car/" class="icon-car-drive">GrabCar Driver</a>
-              </li>
-                                      <li class="link-">
-                <a href="https://www.grab.com/id/driver/bike/" class="icon-bike-drive">GrabBike &#038; GrabExpress Driver</a>
-              </li>
-                                      <li class="link-">
-                <a href="https://www.grab.com/id/kudo/" class="icon-kudo-drive">Kudo</a>
+                <a href="#" class="icon-kudo-drive">Kudo</a>
               </li>
                             </ul>
             </li>
                                     <li class="menu-item-has-children">
               <a href="#"> diaadan</a>
-                <ul class="sub-menu list-unstyled list-icons">
-                                          <li>
-              <a href="https://www.grab.com/id/taxi/" class="icon-taxi">
-                Taksi             </a>
-            </li>
+                <ul class="sub-menu list-unstyled list-icons"
                                             <li>
-              <a href="https://www.grab.com/id/car/" class="icon-car">
-                Car             </a>
-            </li>
-                                            <li>
-              <a href="https://www.grab.com/id/bike/" class="icon-bike">
+              <a href="#" class="icon-bike">
                 Bike              </a>
             </li>
                                             <li>
-              <a href="https://www.grab.com/id/express/" class="icon-express">
+              <a href="#" class="icon-express">
                 Express             </a>
             </li>
+            
                                             <li>
-              <a href="https://www.grab.com/id/food/" class="icon-food">
-                Food              </a>
-            </li>
-                                            <li>
-              <a href="https://www.grab.com/id/rent/" class="icon-car">
-                Rent              </a>
-            </li>
-                                            <li>
-              <a href="https://www.grab.com/id/fresh/" class="icon-grabfresh">
-                Fresh             </a>
-            </li>
-                                            <li>
-              <a href="https://www.grab.com/id/trip-planner/" class="icon-triplanner">
+              <a href="#" class="icon-triplanner">
                 Rute              </a>
             </li>
                                             <li>
-              <a href="https://www.grab.com/id/wheels/" class="icon-wheel">
+              <a href=#" class="icon-wheel">
                 Wheels              </a>
             </li>
-                                            <li>
-              <a href="https://www.grab.com/id/bus/" class="icon-coach">
-                Bus             </a>
-            </li>
+                                            
                                     </ul>
             </li>
                                     <li class="menu-item-has-children">
                 <a href="#">Korporat</a>
                 <ul class="sub-menu list-unstyled list-icons">
                                             <li>
-                        <a href="https://www.grab.com/id/business/" class="icon-work">Grab for Business</a>
+                        <a href="#" class="icon-work"></a>
                     </li>
                                             <li>
-                        <a href="https://www.grab.com/id/partnerships/" class="icon-partnerships">Partnerships</a>
+                        <a href="#" class="icon-partnerships">Partnerships</a>
                     </li>
                                     </ul>
             </li>
                         <li>
-                <a href="https://www.grab.com/id/about/">Tentang Kami</a>
+                <a href="#">Tentang Kami</a>
             </li>
                         <li>
-              <a href="/id/payment/" >Pembayaran</a>
+              <a href="#>Pembayaran</a>
             </li>
+                        
                         <li>
-              <a href="/id/grabrewards/" class="grabrewards-brand mobile-nav"></a>
-            </li>
-                        <li>
-            <li class="menu-item"><a href="https://www.grab.com/id/blog/">Blog</a></li>           </li>
+            <li class="menu-item"><a href="#">Blog</a></li>           </li>
             <li>
-                <a href="https://www.grab.com/id/press/">Media</a>
+                <a href="#/">Media</a>
             </li>
-            <li>
-                <a href="https://grab.careers/" target="_blank">Karir</a>
-            </li>
-                        <li>
-                <a href="https://www.grab.com/id/safety/">Keamanan</a>
-            </li>
-            <li><a href='https://help.grab.com/passenger/id-id'>Pusat Bantuan</a></li>
+            <li><a href='#'>kontak</a></li>
             <li class="menu-item-has-children">
                 <a href="#">Indonesia</a>
                 <ul class="sub-menu list-unstyled list-countries">
                   
-              <li><a href="https://www.grab.com/sg" class="sg">Singapore</a></li>
+              <li><a href="#" class="sg">Singapore</a></li>
 
             
-              <li><a href="https://www.grab.com/my" class="my">Malaysia</a></li>
+              <li><a href="#" class="my">Malaysia</a></li>
 
             
-              <li><a href="https://www.grab.com/id" class="id">Indonesia</a></li>
+              <li><a href="#" class="id">Indonesia</a></li>
 
             
-              <li><a href="https://www.grab.com/th" class="th">Thailand</a></li>
+              <li><a href="#" class="th">Thailand</a></li>
 
             
-              <li><a href="https://www.grab.com/vn" class="vn">Vietnam</a></li>
+              <li><a href="#" class="vn">Vietnam</a></li>
 
             
-              <li><a href="https://www.grab.com/ph" class="ph">Philippines</a></li>
+              <li><a href="#" class="ph">Philippines</a></li>
 
             
-              <li><a href="https://www.grab.com/mm" class="mm">Myanmar</a></li>
+              <li><a href="#" class="mm">Myanmar</a></li>
 
             
-              <li><a href="https://www.grab.com/kh" class="kh">Cambodia</a></li>
+              <li><a href="#" class="kh">Cambodia</a></li>
 
-                            <li><a href="https://www.grab.com/id/where-we-are/" class="globe">Full city list</a>
+                            <li><a href="#" class="globe">Full city list</a>
                 </li>
               </ul>
             </li>
